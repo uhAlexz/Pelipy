@@ -28,6 +28,7 @@ dist/
 Lib/
 Include/
 Scripts/
+pyvenv.cfg
 
 # Ignore system files
 .DS_Store
