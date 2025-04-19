@@ -24,4 +24,4 @@ pip install pelipy
 ```
 
 ## License
-This project is licensed under the MIT License. See the [LICENSE]() here.
+This project is licensed under the MIT License. See the [license](https://github.com/uhAlexz/Pelipy?tab=MIT-1-ov-file) here.
